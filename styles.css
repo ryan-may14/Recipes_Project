@@ -1,0 +1,21 @@
+h1 {
+    background-color: lightsalmon;
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+ul {
+    background-color: lightgreen;
+    height: 86vh;
+}
+
+li {
+    font-size: 30px;
+    padding-top: 4px;
+}
+
+a {
+    text-decoration: none;
+}
